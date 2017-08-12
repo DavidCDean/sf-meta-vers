@@ -2,6 +2,11 @@
 
 Module abstracting the process of retrieving Package Names, Namespaces, and Version information from a Salesforce packaging Org. Originally developed for use in a CI context. Uses jsforce for all Tooling API requests.
 
+## Installation
+
+`yarn add @davidcdean/sf-meta-vers`
+or
+`npm install @davidcdean/sf-meta-vers`
 
 ## Code Example
 
@@ -46,13 +51,6 @@ MVTest01 a1 - 1.0.0 Beta
 MVTest01 a1 - 1.0.0 Released
 New Version Here - 1.1.0 Beta
 ```
-
-## Installation
-
-`yarn add @davidcdean/sf-meta-vers`
-or
-`npm install @davidcdean/sf-meta-vers`
-
 
 ## API Reference
 
