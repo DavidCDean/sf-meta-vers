@@ -1,5 +1,5 @@
 {
-  "name": "sf-meta-vers",
+  "name": "@davidcdean/sf-meta-vers",
   "version": "1.0.0",
   "description": "Pull Metadata Package and Version information from a packaging Org.",
   "main": "./dist/index.js",
@@ -20,5 +20,9 @@
     "prepublish": "npm run build"
   },
   "author": "David C. Dean (https://www.DavidCDean.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/DavidCDean/sf-meta-vers"
+  }
 }
