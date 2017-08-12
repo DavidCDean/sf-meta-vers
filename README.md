@@ -37,7 +37,15 @@ sfmv.getPackageInfo(username, password)
 ```
 
 Example output:
- 
+
+```
+MVT Test Pkg 01 (mvt01)
+Versions Count: 3
+
+MVTest01 a1 - 1.0.0 Beta
+MVTest01 a1 - 1.0.0 Released
+New Version Here - 1.1.0 Beta
+```
 
 ## Installation
 
