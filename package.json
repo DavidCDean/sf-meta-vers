@@ -1,6 +1,6 @@
 {
   "name": "@davidcdean/sf-meta-vers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pull Metadata Package and Version information from a packaging Org.",
   "keywords": ["salesforce", "tooling api", "metadata"],
   "main": "./dist/index.js",
