@@ -2,6 +2,7 @@
   "name": "@davidcdean/sf-meta-vers",
   "version": "1.0.0",
   "description": "Pull Metadata Package and Version information from a packaging Org.",
+  "keywords": ["salesforce", "tooling api", "metadata"],
   "main": "./dist/index.js",
   "dependencies": {
     "jsforce": "^1.8.0"
@@ -19,7 +20,7 @@
     "build": "babel src --presets babel-preset-es2015 --out-dir dist",
     "prepublish": "npm run build"
   },
-  "author": "David C. Dean (https://www.DavidCDean.com)",
+  "author": "David C. Dean <npm@davidcdean.com> (https://www.DavidCDean.com)",
   "license": "ISC",
   "repository" : {
     "type" : "git",
